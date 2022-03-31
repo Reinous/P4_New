@@ -91,7 +91,7 @@ a:hover {
 }
 
 .texture-paper::before {
-    background: url("img/texture-paper.png");
+    background: url("img/texture-paper.webp");
     background-size: 280px 280px;
 }
 
@@ -738,6 +738,9 @@ h4 {
 .white {
     color: #FFFFFF!important;
 }
+.black{
+    color: #000000;
+}
 
 .portfolio-thumb {
     margin-bottom: 24px;
@@ -840,7 +843,7 @@ h4 {
     font-size: 17px;
 }
 .lien{
-    margin-top: 20px;
+    margin-top: 10px;
 }
 
 @media (max-width: 1024px) {
